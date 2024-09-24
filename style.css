@@ -21,6 +21,7 @@ header {
 
 main {
     padding: 20px;
+    display: block;
 }
 
 h2 {
