@@ -20,6 +20,13 @@
         "description": "Pagină cu conținut ce depășește trei ecrane și are o săgeată în dreapta jos pentru a reveni sus la clic.",
         "technologies": "HTML, CSS",
         "link": "https://lucky7ftw.github.io/backtotop/"
+      },
+      {
+        "title": "Calculator Valutar",
+        "image": "screenshot4.jpg",
+        "description": "Un proiect simplu pentru a converti diferite valute folosind un API pentru cursuri de schimb.",
+        "technologies": "HTML, CSS, JavaScript",
+        "link": "https://github.com/Lucky7FTW/calculator_valutar"
       }
     ]
   }
