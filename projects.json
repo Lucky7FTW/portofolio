@@ -1,0 +1,26 @@
+{
+    "projects": [
+      {
+        "title": "Pagina de coming soon",
+        "image": "screenshot1.jpg",
+        "description": "Pagina de coming soon utilizând HTML și CSS.",
+        "technologies": "HTML, CSS",
+        "link": "https://lucky7ftw.github.io/TechTreck-1-/ComingSoon.html"
+      },
+      {
+        "title": "Exemplu creare layout site",
+        "image": "screenshot2.jpg",
+        "description": "Folosind atât Flexbox, cât și Grid pentru ca pagina să arate identic.",
+        "technologies": "HTML, CSS",
+        "link": "https://lucky7ftw.github.io/sitelayout/"
+      },
+      {
+        "title": "Back to Top",
+        "image": "screenshot3.jpg",
+        "description": "Pagină cu conținut ce depășește trei ecrane și are o săgeată în dreapta jos pentru a reveni sus la clic.",
+        "technologies": "HTML, CSS",
+        "link": "https://lucky7ftw.github.io/backtotop/"
+      }
+    ]
+  }
+  
